@@ -298,7 +298,7 @@ InnoLive는 세 저장소를 모두 공개하며, 저장소마다 라이선스�
   
 ## 팀 Framework
 
-대구소프트웨어마이스터고등학교 학생 팀입니다.
+대구소프트웨어마이스터고등학교 학생들과 지도교사가 함께하는 팀입니다.
 
 | 이름 | 역할 |
 | --- | --- |
@@ -308,5 +308,4 @@ InnoLive는 세 저장소를 모두 공개하며, 저장소마다 라이선스�
 | [정대원](https://github.com/jdw09) | Software Engineer  |
 | [천준범](https://github.com/itzjb) | Software Engineer  |
 | [황정빈](https://github.com/hjbin-25) | Software Engineer  |
-
-지도교사 배태진의 프로젝트 지도와 실무 멘토링은 위 외부 자문 항목에 명시했습니다.
+| 배태진 | 지도교사 · Innoflow 대표 · 프로젝트 지도 및 실무 멘토링 |
