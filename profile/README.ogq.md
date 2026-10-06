@@ -6,7 +6,8 @@ AI 기반 실시간 비식별화 솔루션
   
 라이브 방송에서 행인의 얼굴과 차량 번호판 노출을 줄이고, 등록한 출연자의 얼굴은 비식별화 대상에서 제외합니다.
   
-> [웹 체험](https://innolive.studio/) · [서비스 안내](README.md) · [English](README.en.md) · 설치 없이 브라우저에서 실행합니다.
+> [웹 체험](https://innolive.studio/) · [Android 설치 (원스토어)](https://m.onestore.co.kr/v2/ko-kr/app/0001009427) · [iOS 설치 (App Store)](https://apps.apple.com/kr/app/innolive/id6810674918) · [서비스 안내](README.md) · [English](README.en.md)
+> 웹 체험은 설치 없이 브라우저에서 실행합니다.
 
 ---  
   
