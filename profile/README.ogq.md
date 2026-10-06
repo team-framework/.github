@@ -308,4 +308,4 @@ InnoLive는 세 저장소를 모두 공개하며, 저장소마다 라이선스�
 | [정대원](https://github.com/jdw09) | Software Engineer  |
 | [천준범](https://github.com/itzjb) | Software Engineer  |
 | [황정빈](https://github.com/hjbin-25) | Software Engineer  |
-| [배태진](https://github.com/orgs/team-framework/people/innoflow0515) | 지도교사 · Innoflow 대표 · 프로젝트 지도 및 실무 멘토링 |
+| [배태진](https://github.com/innoflow0515) | 지도교사 · Innoflow 대표 · 프로젝트 지도 및 실무 멘토링 |
