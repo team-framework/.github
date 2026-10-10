@@ -262,6 +262,7 @@ InnoLive AI는 학습 데이터와 분리한 고정 Benchmark Set에서 비식�
         | --- | --- |
         | Wanted Sans | SIL OFL 1.1, © Wanted Lab |
         | 느림보 고딕 | 개인·기업 무료 사용 허용, 수정·재배포 금지 — © 이정은(냥만폰트작업실) |
+        | SUIT | SIL OFL 1.1, © 2022 Sun — Android 앱 |
         
     - 컨테이너 이미지
         
@@ -277,12 +278,15 @@ InnoLive AI는 학습 데이터와 분리한 고정 Benchmark Set에서 비식�
   
 - **Google 공개 STUN** (`stun.l.google.com:19302`) — WebRTC ICE 후보 수집. 플랫폼별 STUN/TURN 설정은 클라이언트 안내 참조
 - **YouTube Live RTMP ingest** — 보호 처리가 끝난 영상의 외부 송출 대상  
+- **치지직 라이브 RTMP ingest** — YouTube와 함께 쓰는 동시 송출 대상
 - **jsDelivr CDN** — 웹 얼굴 등록 화면의 MediaPipe WASM 런타임 로드 (모델 가중치는 자체 호스팅)  
 - **DuckDNS · sslip.io** — 배포 서버의 동적 DNS  
   
 ### 외부 자문  
   
 **배태진** — InnoLive 프로젝트의 지도교사이자 Innoflow 대표. 프로젝트 전반 지도와 실무 관점의 멘토링을 맡았습니다.  
+
+**OGQ 데모데이① 멘토** — 2026-09-09 데모데이에서 블러에 더해 공개 얼굴 생성 모델로 얼굴을 바꾸는 기능을 제안했습니다. 이 제안으로 InSwapper 128 얼굴 합성 실험을 시작했습니다.
   
 ---  
   
